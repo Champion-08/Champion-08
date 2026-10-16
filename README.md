@@ -12,6 +12,7 @@ I build practical software experiences — from AI-powered learning tools to dat
 </div>
 
 ---
+![Profile View Counter](https://komarev.com/ghpvc/?username=Champion-08)
 
 ## About
 
